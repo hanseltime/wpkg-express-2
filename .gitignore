@@ -5,3 +5,9 @@
 /app/Config/database.php
 /app/webroot/cake_installer
 /app/webroot/cake_theme
+
+#Composer files
+composer.lock
+
+#Vendors should be populated by calling composer
+vendors/*
