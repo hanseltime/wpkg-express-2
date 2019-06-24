@@ -6,7 +6,8 @@
 	"homepage": "https://anklimsk.github.io/wpkg-express-2",
 	"license": "GPL-3.0-or-later",
 	"require": {
-		"php": ">=5.4.0"
+		"php": ">=5.4.0",
+		"cakephp/cakephp": "2.*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^3.7",
